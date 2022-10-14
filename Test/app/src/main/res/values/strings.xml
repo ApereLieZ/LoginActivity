@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TokenD</string>
+    <string name="sign_in">Sign In</string>
+    <string name="network">Network</string>
+    <string name="email">Email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="forgot_password">Forgot your password? </string>
+    <string name="recover_it">Recover it</string>
+    <string name="have_not_account">Don’t have an account?</string>
+    <string name="register_now">Register now</string>
+
+
+    <string name="servise_https">https://api.demo.tokend.io/</string>
+    
+</resources>
